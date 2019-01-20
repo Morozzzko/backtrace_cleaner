@@ -1,5 +1,7 @@
 # BacktraceCleaner
 
+[![Gem Version](https://badge.fury.io/rb/backtrace_cleaner.svg)](https://badge.fury.io/rb/backtrace_cleaner)
+
 This is an extraction of ActiveSupport's [BacktraceCleaner](https://api.rubyonrails.org/classes/ActiveSupport/BacktraceCleaner.html) library.
 
 This gem exists for everyone who needs this ActiveSupport's feature without the rest of ActiveSupport.
