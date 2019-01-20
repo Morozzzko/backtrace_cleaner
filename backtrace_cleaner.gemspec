@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['igor@morozov.is']
 
   spec.summary       = 'BacktraceCleaner from ActiveSupport without any ActiveSupport'
-  spec.homepage      = 'https://github.com/Morozzzko'
+  spec.homepage      = 'https://github.com/Morozzzko/backtrace_cleaner'
   spec.license       = 'MIT'
 
   # Specify which files should be added to the gem when it is released.
