@@ -9,6 +9,11 @@ Gem::Specification.new do |spec|
   spec.email         = ['igor@morozov.is']
 
   spec.summary       = 'BacktraceCleaner from ActiveSupport without any ActiveSupport'
+  spec.description   = <<~EOF
+    This is an extraction of ActiveSupport's BacktraceCleaner library.
+
+    This gem exists for everyone who needs this ActiveSupport's feature without the rest of ActiveSupport.
+  EOF
   spec.homepage      = 'https://github.com/Morozzzko/backtrace_cleaner'
   spec.license       = 'MIT'
 
